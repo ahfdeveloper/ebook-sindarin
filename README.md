@@ -17,7 +17,7 @@ Com os conteúdos gerados foi feita a diagramação do conteúdo usando o OnlyOf
 
 ## 🚀 Resultados
 
-Link do eBook: <>
+Link do eBook: [eBook Sindarin](https://github.com/ahfdeveloper/ebook-sindarin/blob/fa7602b2ad7a9f2ec9820eb9b52411c36de9659c/eBook%20Sindarin.pdf)
 
 ## 💭 Reflexão
-O processo de criação demonstrou como as ferramentas de IA estão poderosas com resultados espantosos. As músicas geradas neste trabalho possuem uma qualidade tão elevada que podem facilmente convencer qualquer pessoa de que foram criadas por humanos.
+O processo de criação demonstrou como as ferramentas de IA estão poderosas e ajudam a acelerar o processo de criação de conteúdo.
